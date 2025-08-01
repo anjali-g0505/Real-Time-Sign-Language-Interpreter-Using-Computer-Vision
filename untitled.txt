@@ -1,0 +1,8 @@
+8 Steps we need to do:
+1. Setup Paths
+2. Create Label Map
+3. Create TF Records
+4. Download TF Models Pretrained Models from Tensorflow Model Zoo
+5. Copy Model Config To Training Folder
+6. Detect In Real Time
+
